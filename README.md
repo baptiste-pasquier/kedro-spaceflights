@@ -1,6 +1,24 @@
 # Kedro Spaceflights
 
+Kedro spaceflights tutorial : https://kedro.readthedocs.io/en/stable/tutorial/spaceflights_tutorial.html
+
+- [Kedro Spaceflights](#kedro-spaceflights)
+  - [Overview](#overview)
+  - [Rules and guidelines](#rules-and-guidelines)
+  - [How to install dependencies](#how-to-install-dependencies)
+  - [How to run your Kedro pipeline](#how-to-run-your-kedro-pipeline)
+  - [How to test your Kedro project](#how-to-test-your-kedro-project)
+  - [Project dependencies](#project-dependencies)
+  - [How to work with Kedro and notebooks](#how-to-work-with-kedro-and-notebooks)
+    - [Jupyter](#jupyter)
+    - [JupyterLab](#jupyterlab)
+    - [IPython](#ipython)
+    - [How to convert notebook cells to nodes in a Kedro project](#how-to-convert-notebook-cells-to-nodes-in-a-kedro-project)
+    - [How to ignore notebook output cells in `git`](#how-to-ignore-notebook-output-cells-in-git)
+  - [Package your Kedro project](#package-your-kedro-project)
 ## Overview
+
+
 
 This is your new Kedro project, which was generated using `Kedro 0.18.3`.
 
